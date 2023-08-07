@@ -14,6 +14,15 @@ Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai 
 1. [Job Analysis](https://github.com/Shreyasoni11/MLProject)
    - Analyzed sales data to identify trends and opportunities for revenue growth.
    - Created insightful visualizations using Excel and Power BI.
+  
+2. [Capstone Project](https://github.com/Shreyasoni11/CapstoneProject)
+  - This project involves analyzing data related to medicine products, including their benefits, pricing, brands, ratings, and ingredients.
+  - The goal is to generate insights that can be used to create an interactive dashboard for analyzing the cost of opening a homeopathic medicine store and 
+    selecting the best medicine based on benefit area.
+
+3. [PowerBI- Lead Conversion Dashboard](https://github.com/Shreyasoni11/PowerBI-lead_Conversion_Dashboard)
+   - This to analyze various aspects of customer acquisition, aiming to uncover the status of new user growth within your company.
+   - The insights which were provide can assist the business team in crafting an improved marketing strategy for your company's success.
 
 ## Get in Touch
 - LinkedIn: [Shreya Soni](https://www.linkedin.com/in/shreya-soni-6800331aa/)
