@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Shreya Soni
 <div align="center">
-   <img src= ![Blue Geometric Technology LinkedIn Banner (1)](https://github.com/Shreyasoni11/Shreyasoni11/assets/136992653/6a619961-88cd-4b5a-9a2c-c7b7268e78d0)
->
+  
 </div>
 Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai Institute. I have a strong background in data analytics and am actively seeking job opportunities in the field. With a post-graduate degree and a GATE qualification, I'm well-equipped to take on challenging data analytics projects.
 
