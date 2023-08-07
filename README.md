@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai 
 
 ## Projects
 
-1. [Job Analysis](https://github.com/Shreyasoni11/MLProject)
+1. [Job Analysis (ML Project)](https://github.com/Shreyasoni11/MLProject)
    - Analyzed sales data to identify trends and opportunities for revenue growth.
    - Created insightful visualizations using Excel and Power BI.
   
